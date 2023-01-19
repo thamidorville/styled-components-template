@@ -1,3 +1,6 @@
+import { CarroContainer } from "./style";
+
+
 export function Carro(props) {
     return (
       <div>
